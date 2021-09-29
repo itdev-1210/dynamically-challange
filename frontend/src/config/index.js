@@ -1,0 +1,1 @@
+export const BACKEDN_SERVER = 'http://localhost:8443'
